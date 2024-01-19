@@ -2,10 +2,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  overflow: auto;
+  top: 80px;
 
   .text-zone {
     flex: 1;
     padding: 20px;
+    
 
     h1 {
       font-size: 36px;
