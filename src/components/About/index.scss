@@ -106,3 +106,8 @@
     }
   }
 }
+@media (max-width: 1000px) {
+  .cubespinner {
+    display: none; /* Hide the cube on screens less than 1000 pixels */
+  }
+}
